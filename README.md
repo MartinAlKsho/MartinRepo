@@ -1,6 +1,9 @@
 //* how to use the MAPatients Projects *//
 
 download the visual studio Software.
+
+install Entity Fram Work 2.2.0
+
 the application is written with C# language.
 
 the project work in MVC Technology (Model- View - Controller)..
